@@ -1,2 +1,2 @@
 # Pong-Dong-Godot
- shitty Pong but made with godot
+ shitty Pong but made with the godot game engine
